@@ -146,7 +146,7 @@ Arguments
 .. _`IntlDateFormatter::FULL`:        http://php.net/manual/en/class.intldateformatter.php#intldateformatter.constants.full
 .. _`IntlDateFormatter::GREGORIAN`:   http://php.net/IntlDateFormatter#intldateformatter.constants.gregorian
 .. _`IntlDateFormatter::TRADITIONAL`: http://php.net/IntlDateFormatter#intldateformatter.constants.traditional
-.. _`ICU user guide`:                 http://userguide.icu-project.org/formatparse/datetime
+.. _`ICU user guide`:                 https://unicode-org.github.io/icu/userguide/format_parse/datetime/#formatting-dates
 .. _`NumberFormatter::create()`:      http://php.net/manual/en/numberformatter.create.php
 .. _`NumberFormatter::DECIMAL`:       http://php.net/manual/en/class.numberformatter.php#numberformatter.constants.decimal
 .. _`NumberFormatter::CURRENCY`:      http://php.net/manual/en/class.numberformatter.php#numberformatter.constants.currency
